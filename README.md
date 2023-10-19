@@ -12,4 +12,3 @@ docker run -p 8080:8080 <your-api-name>:latest
 ```
 After running this command the API should now be accessible at http://localhost:8080.
 
-## Using the API
