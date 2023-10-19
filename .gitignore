@@ -6,7 +6,3 @@ main
 *.test
 *.out
 go.sum
-
-# Docker
-Dockerfile
-.dockerignore
